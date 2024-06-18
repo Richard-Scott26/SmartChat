@@ -1,0 +1,7 @@
+{
+  "name": "SmartChatIonic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
